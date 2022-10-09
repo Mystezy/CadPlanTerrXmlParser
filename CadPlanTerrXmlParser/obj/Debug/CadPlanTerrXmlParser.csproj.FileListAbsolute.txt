@@ -1,0 +1,16 @@
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\obj\Debug\CadPlanTerrXmlParser.csproj.AssemblyReference.cache
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\obj\Debug\CadPlanTerrXmlParser.csproj.SuggestedBindingRedirects.cache
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\obj\Debug\MainWindow.g.cs
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\obj\Debug\App.g.cs
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\obj\Debug\CadPlanTerrXmlParser_MarkupCompile.cache
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\obj\Debug\CadPlanTerrXmlParser_MarkupCompile.lref
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\bin\Debug\CadPlanTerrXmlParser.exe.config
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\bin\Debug\CadPlanTerrXmlParser.exe
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\bin\Debug\CadPlanTerrXmlParser.pdb
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\obj\Debug\MainWindow.baml
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\obj\Debug\CadPlanTerrXmlParser.g.resources
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\obj\Debug\CadPlanTerrXmlParser.Properties.Resources.resources
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\obj\Debug\CadPlanTerrXmlParser.csproj.GenerateResource.cache
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\obj\Debug\CadPlanTerrXmlParser.csproj.CoreCompileInputs.cache
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\obj\Debug\CadPlanTerrXmlParser.exe
+C:\Users\xMyst\source\repos\CadPlanTerrXmlParser\CadPlanTerrXmlParser\obj\Debug\CadPlanTerrXmlParser.pdb
